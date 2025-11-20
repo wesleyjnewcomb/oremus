@@ -1,0 +1,72 @@
+{
+  "rosary-joyful": {
+    "title": "Rosary: Joyful Mysteries",
+    "description": "A traditional Catholic prayer devotion meditating on the life of Christ and the Virgin Mary.",
+    "sections": [
+      {
+        "title": "Introductory Prayers",
+        "prayers": [
+          "signum-crucis",
+          "symbolum-apostolorum",
+          "pater-noster",
+          ["ave-maria", 3],
+          "doxologia-minor",
+          "oratio-fatima"
+        ]
+      },
+      {
+        "title": "The Annunciation",
+        "prayers": [
+          "pater-noster",
+          ["ave-maria", 10],
+          "doxologia-minor",
+          "oratio-fatima"
+        ]
+      },
+      {
+        "title": "The Visitation",
+        "prayers": [
+          "pater-noster",
+          ["ave-maria", 10],
+          "doxologia-minor",
+          "oratio-fatima"
+        ]
+      },
+      {
+        "title": "The Nativity",
+        "prayers": [
+          "pater-noster",
+          ["ave-maria", 10],
+          "doxologia-minor",
+          "oratio-fatima"
+        ]
+      },
+      {
+        "title": "The Presentation",
+        "prayers": [
+          "pater-noster",
+          ["ave-maria", 10],
+          "doxologia-minor",
+          "oratio-fatima"
+        ]
+      },
+      {
+        "title": "The Finding in the Temple",
+        "prayers": [
+          "pater-noster",
+          ["ave-maria", 10],
+          "doxologia-minor",
+          "oratio-fatima"
+        ]
+      },
+      {
+        "title": "Concluding Prayers",
+        "prayers": [
+          "ave-regina-caelorum",
+          "oratio-ad-finem-rosarii-dicenda",
+          "signum-crucis"
+        ]
+      }
+    ]
+  }
+}
