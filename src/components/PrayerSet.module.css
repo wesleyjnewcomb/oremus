@@ -1,0 +1,59 @@
+.prayerSet {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  flex: 0;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  border: 1px solid var(--c-border);
+  padding: 1rem;
+  border-radius: var(--border-radius-md);
+  margin-inline: 2rem;
+}
+
+.main {
+  flex: 1;
+  display: grid;
+  place-items: center;
+}
+
+.sectionTitle {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.navigation {
+  flex: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+
+  & button {
+    padding: 2rem 2rem;
+    text-align: center;
+    font-size: 1.5rem;
+    background-color: light-dark(var(--c-gray-100), var(--c-gray-800));
+    color: var(--c-text);
+    cursor: pointer;
+
+    &:hover {
+      background-color: light-dark(var(--c-gray-200), var(--c-gray-700));
+    }
+
+    &:active {
+      background-color: light-dark(var(--c-gray-300), var(--c-gray-600));
+    }
+  }
+}

@@ -18,3 +18,5 @@ export interface PrayerSet {
   description: string;
   sections: PrayerSection[];
 }
+
+export type Progress = [sectionIndex: number, prayerIndex: number, rep: number]

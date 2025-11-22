@@ -1,4 +1,3 @@
-import './App.css'
 import { PrayerSet } from './components/PrayerSet'
 import prayerSetData from './data/prayer-sets.en.json'
 import type { PrayerSet as PrayerSetType } from './types'

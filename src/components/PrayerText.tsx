@@ -1,13 +1,18 @@
+import { Fragment } from "react/jsx-runtime";
+
 interface PrayerTextProps {
   textLines: string[];
 }
 
 export function PrayerText({ textLines }: PrayerTextProps) {
   return (
-    <div>
+    <p>
       {textLines.map((line, index) => (
-        <p key={index}>{line}</p>
+        <Fragment key={index}>
+          {line}
+          <br />
+        </Fragment>
       ))}
-    </div>
+    </p>
   );
 }

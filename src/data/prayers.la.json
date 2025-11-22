@@ -1,0 +1,123 @@
+{
+  "signum-crucis": {
+    "id": "signum-crucis",
+    "name": "Signum Crucis",
+    "description": "Benedictio ritualis a Christianis facta",
+    "text": [
+      "In nomine Patris, et Filii, et Spiritus Sancti.",
+      "Amen."
+    ]
+  },
+  "symbolum-apostolorum": {
+    "id": "symbolum-apostolorum",
+    "name": "Symbolum Apostolorum",
+    "description": "Confessio fidei Christianae",
+    "text": [
+      "Credo in Deum, Patrem omnipotentem,",
+      "creatorem caeli et terrae.",
+      "Et in Iesum Christum, Filium eius unicum, Dominum nostrum,",
+      "qui conceptus est de Spiritu Sancto,",
+      "natus ex Maria Virgine,",
+      "passus sub Pontio Pilato,",
+      "crucifixus, mortuus, et sepultus;",
+      "descendit ad inferna;",
+      "tertia die resurrexit a mortuis;",
+      "ascendit ad caelos,",
+      "sedetque ad dexteram Dei Patris omnipotentis;",
+      "inde venturus est iudicare vivos et mortuos.",
+      "Credo in Spiritum Sanctum,",
+      "sanctam Ecclesiam catholicam,",
+      "sanctorum communionem,",
+      "peccatorum remissionem,",
+      "carnis resurrectionem,",
+      "vitam aeternam.",
+      "Amen."
+    ]
+  },
+  "pater-noster": {
+    "id": "pater-noster",
+    "name": "Pater Noster",
+    "description": "Oratio Dominica",
+    "text": [
+      "Pater noster, qui es in caelis,",
+      "sanctificetur nomen tuum;",
+      "adveniat regnum tuum;",
+      "fiat voluntas tua, sicut in caelo et in terra.",
+      "Panem nostrum quotidianum da nobis hodie;",
+      "et dimitte nobis debita nostra,",
+      "sicut et nos dimittimus debitoribus nostris;",
+      "et ne nos inducas in tentationem,",
+      "sed libera nos a malo.",
+      "Amen."
+    ]
+  },
+  "ave-maria": {
+    "id": "ave-maria",
+    "name": "Ave Maria",
+    "description": "Oratio tradita ad intercessionem Beatae Mariae Virginis impetrandam",
+    "text": [
+      "Ave Maria, gratia plena, Dominus tecum;",
+      "benedicta tu in mulieribus,",
+      "et benedictus fructus ventris tui, Iesus.",
+      "Sancta Maria, Mater Dei,",
+      "ora pro nobis peccatoribus,",
+      "nunc et in hora mortis nostrae.",
+      "Amen."
+    ]
+  },
+  "doxologia-minor": {
+    "id": "doxologia-minor",
+    "name": "Gloria Patri",
+    "description": "Hymnus brevis laudis ad Sanctissimam Trinitatem",
+    "text": [
+      "Gloria Patri, et Filio, et Spiritui Sancto.",
+      "Sicut erat in principio, et nunc, et semper,",
+      "et in saecula saeculorum.",
+      "Amen."
+    ]
+  },
+  "oratio-fatima": {
+    "id": "oratio-fatima",
+    "name": "Oratio Fatimensis",
+    "description": "Oratio a Beatissima Virgine Maria tribus pastoribus in Fatima, Lusitania, docta",
+    "text": [
+      "O Iesu meus,",
+      "dimitte nobis peccata nostra,",
+      "erue nos ab ignibus inferni,",
+      "omnes animas ad caelum perfer,",
+      "praecipue eas quae maxime misericordiae tuae indigent.",
+      "Amen."
+    ]
+  },
+  "ave-regina-caelorum": {
+    "id": "ave-regina-caelorum",
+    "name": "Ave Regina Caelorum",
+    "description": "Oratio tradita ad honorem Beatae Mariae Virginis, Reginae Caeli",
+    "text": [
+      "Ave, Regina caelorum,",
+      "Ave, Domina angelorum,",
+      "Salve, radix, salve, porta,",
+      "Ex qua mundo lux est orta.",
+      "Gaude, Virgo gloriosa,",
+      "Super omnes speciosa,",
+      "Vale, O valde decora,",
+      "Et pro nobis Christum exora."
+    ]
+  },
+  "oratio-ad-finem-rosarii-dicenda": {
+    "id": "oratio-ad-finem-rosarii-dicenda",
+    "name": "Oratio Rosarii Conclusiva",
+    "description": "Oratio conclusiva devotionis Rosarii",
+    "text": [
+      "Deus, cuius Filius unigenitus,",
+      "vita, morte, et resurrectione sua,",
+      "nobis praemia vitae aeternae acquisivit,",
+      "concede, quaesumus,",
+      "ut haec mysteria Rosarii Sanctissimae Mariae Virginis meditantes,",
+      "quae continentur, imitari possimus,",
+      "et quae promittuntur, adipisci,",
+      "per eumdem Christum Dominum nostrum.",
+      "Amen."
+    ]
+  }
+}
